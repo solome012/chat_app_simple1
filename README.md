@@ -22,7 +22,7 @@ c3RhbGwgJiYgbm9kZSBpbmRleAogICAgYGBg
   ![](https://raw.githubusercontent.com/globalcorporation/.github/main/.github/logo/global_corporation.png)
 </h3>
 
-
+this is example for merge conflict at line 25
 <h3 align="center">
   Welcome to Global Corporation profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
