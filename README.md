@@ -79,7 +79,7 @@ With a committed team of experts, advanced technology, and a holistic approach t
 
 <h3 align="center">
   Ads Gateway
-
+This is for merge conflict example in line 82.
   ![](https://raw.githubusercontent.com/globalcorporation/.github/main/.github/logo/ads_gateway.png)
 </h3>
 
